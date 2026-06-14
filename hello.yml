@@ -9,4 +9,4 @@ jobs:
 
     steps:
       - name: Print Message
-        run: echo "Hello Datacom!"
+        run: echo "Hello Datacom!" 
